@@ -18,8 +18,7 @@ Desenvolvido na trilha Foundations na edição NLW IA da Rockeseat.</p>
 ### Pré-requisitos
 
 Ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-e um editor de código como [VSCode](https://code.visualstudio.com/), por exemplo.
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e um editor de código como [VSCode](https://code.visualstudio.com/) ou similar.
 
 #### 🎲 Rodando o Backend (servidor)
 
@@ -65,9 +64,10 @@ $ npm run web
 
 ## 🛠 Tecnologias
 
- 
-![Badge NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Badge JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Badge NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <br>
 
