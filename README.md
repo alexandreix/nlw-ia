@@ -7,9 +7,9 @@
 ## 💻 Descrição
 
 <p>Esse projeto é uma aplicação web para criar resumo de vídeos shorts do YouTube utilizando Inteligência Artificial. 
-Modelosde IA utilizados: Whisper para reconhecimento automático de fala (ASR - automatic speech recognition) e Bart para resumo de texto.
+Modelos de IA utilizados: Whisper para reconhecimento automático de fala (ASR - automatic speech recognition) e Bart para resumo de texto.
   
-Esse projeto foi desenvolvido na trilha Foundations na edição NLW IA da Rockeseat..</p>
+Desenvolvido na trilha Foundations na edição NLW IA da Rockeseat.</p>
 
 <br><br>
 
@@ -26,7 +26,7 @@ e um editor de código como [VSCode](https://code.visualstudio.com/), por exempl
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/guisant/nlwia.git
+$ git clone https://github.com/alexandreix/nlw-ia.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd nlw-ia
