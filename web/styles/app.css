@@ -25,3 +25,12 @@
   color: #7c7c8a;
   user-select: none;
 }
+
+#app  .footer {
+align-self: flex-start;
+  text-align: center;
+  font-size:small;
+  width: 512px;
+  margin-top: 50px;
+   color: #c1bec4;
+}
