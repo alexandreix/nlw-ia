@@ -1,7 +1,8 @@
-<h1 align="center">
+<h2 align="center">
   
 ![Logo](https://github.com/guisant/nlwia/assets/37338838/28640e18-c592-4495-b810-df387c6c52aa)
-</h1>
+
+</h2>
 
 
 ## 💻 Descrição
@@ -11,8 +12,14 @@ Modelos de IA utilizados: Whisper para reconhecimento automático de fala (ASR -
   
 Desenvolvido na trilha Foundations na edição NLW IA da Rockeseat.</p>
 
-<br><br>
+## 🛠 Tecnologias
 
+- [x] HTML
+- [x] CSS
+- [x] Javascript
+- [x] Node
+- [x] Vite   
+      
 ## 🚀 Como executar o projeto
 
 ### Pré-requisitos
@@ -59,16 +66,6 @@ $ npm run web
 # A aplicação será aberta na porta:5173 - acesse http://localhost:5173
 
 ```
-
-<br><br>
-
-## 🛠 Tecnologias
-
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Badge NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <br>
 
