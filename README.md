@@ -31,7 +31,6 @@ Modedos de IA utilizados:
 Ter instalado na sua máquina:</br>
 - [ ] [Git](https://git-scm.com)
 - [ ] [Node.js](https://nodejs.org/en/)
-- [ ] [VSCode](https://code.visualstudio.com/) ou similar.
 
 #### 🧭 Rodando o Backend (servidor)
 
