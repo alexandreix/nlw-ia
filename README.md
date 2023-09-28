@@ -37,16 +37,16 @@ Ter instalado na sua máquina:</br>
 
 ```bash
 
-# Clone este repositório
+# Clone este repositório, no terminal/cmd digite:
 $ git clone https://github.com/alexandreix/nlw-ia.git
 
-# Acesse a pasta do projeto no seu terminal/cmd
+# Acesse a pasta do projeto:
 $ cd nlw-ia
 
-# Instale as dependências
+# Instale as dependências:
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute o servidor em modo de desenvolvimento:
 $ npm run server
 
 # O servidor iniciará na porta:3333 - acesse http://localhost:3333/summary/"id do video"(codigo após /shorts/..)
@@ -55,21 +55,21 @@ $ npm run server
 #### 🧭 Instalando as bibliotecas
 
 ```bash
-# Execute no terminal o seguinte comando:
+# Execute:
 npm i express cors axios ytdl-core@4.10.0 
 
 # Em seguida:
 npm i @xenova/transformers fluent-ffmpeg ffmpeg-static node-wav
 
 ```
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Abrindo a Aplicação no Navegador (Frontend)
 
 ```bash
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute o comando no terminal/cmd:
 $ npm run web
 
-# A aplicação será aberta na porta:5173 - acesse http://localhost:5173
+# A aplicação abrirá na porta:5173 - acesse http://localhost:5173
 
 ```
 
