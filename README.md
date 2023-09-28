@@ -1,33 +1,39 @@
-<h2 align="center">
-  
-![Logo](https://github.com/guisant/nlwia/assets/37338838/28640e18-c592-4495-b810-df387c6c52aa)
 
-</h2>
+<p align="center">
+  <img alt="Short Summary" src="https://github.com/guisant/nlwia/assets/37338838/28640e18-c592-4495-b810-df387c6c52aa" width="200px" />
+</p>
 
 
-## 💻 Descrição
 
-<p>Esse projeto é uma aplicação web para criar resumo de vídeos shorts do YouTube utilizando Inteligência Artificial. 
-Modelos de IA utilizados: Whisper para reconhecimento automático de fala (ASR - automatic speech recognition) e Bart para resumo de texto.
-  
-Desenvolvido na trilha Foundations na edição NLW IA da Rockeseat.</p>
+## 💻 Projeto
 
-## 🛠 Tecnologias
+Shorts Summary é uma aplicação web para criar resumos de vídeos shorts do YouTube utilizando Inteligência Artificial, desenvolvido na trilha Foundations na edição NLW IA da Rockeseat.
+
+Modedos de IA utilizados:
+-  Whisper - Para reconhecimento automático de fala
+-  Bart - Para resumo de textos
+
+
+
+## 🤖 Tecnologias
 
 - [x] HTML
 - [x] CSS
 - [x] Javascript
-- [x] Node
-- [x] Vite   
-      
+- [x] Node.js
+- [x] Vite
+- [x] Transformers.js
+
 ## 🚀 Como executar o projeto
 
-### Pré-requisitos
+### ⚠️ Pré-requisitos
 
-Ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e um editor de código como [VSCode](https://code.visualstudio.com/) ou similar.
+Ter instalado na sua máquina:</br>
+- [ ] [Git](https://git-scm.com)
+- [ ] [Node.js](https://nodejs.org/en/)
+- [ ] [VSCode](https://code.visualstudio.com/) ou similar.
 
-#### 🎲 Rodando o Backend (servidor)
+#### 🧭 Rodando o Backend (servidor)
 
 ```bash
 
